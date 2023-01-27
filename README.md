@@ -9,4 +9,4 @@ Agrupación del proyecto:
 
 Carpeta assets. Esta contiene los directorios de img y js y css. Siendo index.html la raíz del proyecto.
 
-Construido con 🛠 HTML CSS Javascript (JQuery) Bootstrap 5.2.3 Autor. Mariela Ochoa
+Construido con 🛠 HTML CSS Javascript (JQuery) Bootstrap 5.2.3 Autor. Mariela Ochoa.
